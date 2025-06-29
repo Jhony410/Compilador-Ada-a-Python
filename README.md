@@ -25,12 +25,12 @@ Este repositorio contiene un transpilador que convierte código fuente del lengu
 - [Make](https://www.gnu.org/software/make/)
 
 ## Estructura del proyecto
-├── ada.l # Especificación del analizador léxico (Flex)
-├── ada.y # Gramática del analizador sintáctico (Bison)
-├── ejemplo.ada # Ejemplo de código Ada (Fermat)
-├── Makefile # Script de compilación
-├── README.md # Este archivo
-└── salida.py # Salida generada (Python)\
+* ada.l # Especificación del analizador léxico (Flex)
+* ada.y # Gramática del analizador sintáctico (Bison)
+* ejemplo.ada # Ejemplo de código Ada (Fermat)
+* Makefile # Script de compilación
+* README.md # Este archivo
+* salida.py # Salida generada (Python)\
 
 ## 
 ## Instalación y uso
